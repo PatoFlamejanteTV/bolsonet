@@ -1,4 +1,4 @@
-# Bussin Wattesigma
+# BolsoNet
 
 <img style="width: 128px; height: 128px" src="Website\static\favicon.png" />
 
@@ -31,7 +31,7 @@ You will need:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/face-hh/wattesigma.git
+   git clone https://github.com/PatoFlamejanteTV/bolsonet.git
    ```
 
 2. Open the project in Godot Engine.
